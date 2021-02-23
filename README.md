@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Cloud Infrastructure
 - 💬 Ask me about QnA Maker, LUIS Dispatch, Microsoft BOT, C#, Azure.
 - 📫 How to reach me: [@rajeeshmenoth](https://twitter.com/rajeeshmenoth)
+- ✨ Certification: Microsoft Azure Developer Associate ( AZ 204 ) & Azure Fundamentals ( AZ 900 )
 
 ### Connect with me:
 
