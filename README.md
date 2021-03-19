@@ -17,6 +17,10 @@
 
 <br />
 
+### 📚 E-Book
+
+* [THE IMPLEMENTATION & HANDLING OF MULTIPLE MICROSOFT CHATBOT MODULES](https://www.c-sharpcorner.com/ebooks/the-implementation-handling-of-multiple-microsoft-chatbot-modules)
+
 ### 📗 My Famous Blogs
 * [Microsoft](https://social.msdn.microsoft.com/profile/rajeeshmenoth/)
 * [C-SharpCorner](https://www.c-sharpcorner.com/members/rajeesh-menoth)
