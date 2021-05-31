@@ -2,12 +2,15 @@
 
 ## Author | Blogger | Programmer
 
-- 🏆 C# Corner MVP Award Winner 2015 - 2020
+- 🏆 C# Corner MVP Award Winner 2015 - 2021
 - 🔭 I’m currently working on a Microsoft ChatBot, ASP.NET Core, Azure, LUIS, QnA Maker,C#.
 - 🌱 I’m currently learning Cloud Infrastructure
-- 💬 Ask me about QnA Maker, LUIS Dispatch, Microsoft BOT, C#, Azure.
+- 💬 Ask me about QnA Maker, LUIS, Microsoft BOT, C#, Azure.
 - 📫 How to reach me: [@rajeeshmenoth](https://twitter.com/rajeeshmenoth)
-- ✨ Certification: Microsoft Azure Developer Associate ( AZ 204 ) & Microsoft Azure Fundamentals ( AZ 900 ) & Microsoft Azure AI Fundamentals ( AI 900 )
+- ✨ Certification:
+     - Microsoft Azure Developer Associate ( AZ 204 )
+     - Microsoft Azure Fundamentals ( AZ 900 )
+     - Microsoft Azure AI Fundamentals ( AI 900 )
 
 ### 🌍 Connect with me:
 
@@ -24,6 +27,7 @@
 ### 📗 My Famous Blogs
 * [Microsoft](https://social.msdn.microsoft.com/profile/rajeeshmenoth/)
 * [C-SharpCorner](https://www.c-sharpcorner.com/members/rajeesh-menoth)
+* [Stack Overflow](https://stackoverflow.com/users/2890048/rajeeshmenoth)
 * [Personal Blog](https://rajeeshmenoth.wordpress.com/)
 
 ---
