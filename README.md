@@ -8,9 +8,10 @@
 - 💬 Ask me about QnA Maker, LUIS, Microsoft BOT, C#, Azure.
 - 📫 How to reach me: [@rajeeshmenoth](https://twitter.com/rajeeshmenoth)
 - ✨ Certification:
+     - Microsoft Azure Architect Technologies ( AZ 303 )
      - Microsoft Azure Developer Associate ( AZ 204 )
      - Microsoft Azure Fundamentals ( AZ 900 )
-     - Microsoft Azure AI Fundamentals ( AI 900 )
+     - Microsoft Azure AI Fundamentals ( AI 900 )     
 
 ### 🌍 Connect with me:
 
