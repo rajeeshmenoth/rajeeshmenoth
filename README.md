@@ -2,7 +2,7 @@
 
 ## Author | Blogger | Programmer
 
-- 🏆 C# Corner MVP Award Winner 2015 - 2021
+- 🏆 C# Corner MVP Award Winner 2015 - 2022
 - 🔭 I’m currently working on a Microsoft ChatBot, ASP.NET Core, Azure, LUIS, QnA Maker,C#.
 - 🌱 I’m currently learning Cloud Infrastructure
 - 💬 Ask me about QnA Maker, LUIS, Microsoft BOT, C#, Azure.
