@@ -3,15 +3,17 @@
 ## Author | Blogger | Programmer
 
 - 🏆 C# Corner MVP Award Winner 2015 - 2022
-- 🔭 I’m currently working on a Microsoft ChatBot, ChatGpt, Open AI, ASP.NET Core, Azure, LUIS, QnA Maker, and C#.
+- 🔭 I’m currently working on a Microsoft ChatBot, ChatGpt, Open AI, ASP.NET Core, Azure, Agent SDK and C#.
 - 🌱 I’m currently learning Cloud Infrastructure
 - 💬 Ask me about QnA Maker, LUIS, Microsoft BOT, C#, Azure, and Open AI.
 - 📫 How to reach me: [@rajeeshmenoth](https://twitter.com/rajeeshmenoth)
 - ✨ Certification:
      - Microsoft Azure Architect Technologies ( AZ 303 )
      - Microsoft Azure Developer Associate ( AZ 204 )
+     - Microsoft Azure AI Engineer Associate ( AI 102 )
      - Microsoft Azure Fundamentals ( AZ 900 )
-     - Microsoft Azure AI Fundamentals ( AI 900 )     
+     - Microsoft Azure AI Fundamentals ( AI 900 )
+    
 
 ### 🌍 Connect with me:
 
