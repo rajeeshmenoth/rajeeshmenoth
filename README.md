@@ -8,6 +8,7 @@
 - 💬 Ask me about QnA Maker, LUIS, Microsoft BOT, C#, Azure, and Open AI.
 - 📫 How to reach me: [@rajeeshmenoth](https://twitter.com/rajeeshmenoth)
 - ✨ Certification:
+     - Microsoft Certified: Azure Solutions Architect Expert ( AZ 305 )
      - Microsoft Azure Architect Technologies ( AZ 303 )
      - Microsoft Azure Developer Associate ( AZ 204 )
      - Microsoft Azure AI Engineer Associate ( AI 102 )
